@@ -4,7 +4,7 @@ Sou Desenvolvedor de Software Full Stack com 4 anos de experiência construindo 
 
 Sou graduado em Sistemas de Informação pela UFG e curso especialização em Inteligência Artificial Aplicada pelo IFG (conclusão em 2026), com foco em Machine Learning, Deep Learning e Engenharia de Dados aplicados a problemas reais.
 
-## 🛠️ Tech stack
+## Tech stack
 
 - Node.js, NestJS, TypeScript, Express  
 - PostgreSQL, MongoDB, Redis, Snowflake, dbt, Airflow  
