@@ -6,7 +6,7 @@ Sou graduado em Sistemas de Informação pela UFG e curso especialização em In
 
 ## Tech stack
 
-- Node.js, NestJS, TypeScript, Express  
+- Node.js, NestJS, Angular, TypeScript, Express  
 - PostgreSQL, MongoDB, Redis, Snowflake, dbt, Airflow  
 - Python, Jupyter, scikit-learn, Pandas, NumPy  
 - Docker, AWS, GitHub Actions, RabbitMQ/Bull
