@@ -1,6 +1,6 @@
 # Israel Magalhães Teixeira
 
-Software Engineer · Backend & Generative AI · Goiânia, Brazil (UTC−3) · Open to remote roles
+Software Engineer · Backend & Generative AI · Goiânia, Brazil (UTC−3)
 
 5 years building production B2B systems with Node.js, TypeScript, Python and PostgreSQL.
 For four years I worked on a food-service platform used by thousands of restaurants in Brazil,
